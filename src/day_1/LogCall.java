@@ -7,3 +7,4 @@ public class LogCall {
         System.out.println("sadawqsadqwe");
     }
 }
+//
